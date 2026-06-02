@@ -3,14 +3,17 @@
 }
 .night{
   background-color: black;
-  color:white;
+  color:blue;
 }
-
+.day{
+	background-color: white;
+  color:blue;
+}
 #swap{
   outline:0;
 }
 
 .button_night{
-  background-color:blue;
-  color:white; 
+  background-color:white;
+  color:black; 
 }
